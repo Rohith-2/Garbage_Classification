@@ -16,3 +16,4 @@ dataset-resized/._metal
 dataset-resized/._paper
 dataset-resized/._plastic
 dataset-resized/._trash
+model/._net.onnx
